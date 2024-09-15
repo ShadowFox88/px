@@ -1,0 +1,11 @@
+{
+    "name": "Go App Boilerplate",
+    "dockerFile": "Dockerfile",
+    "workspaceFolder": "/workspace",
+    "remoteUser": "go",
+    "postCreateUser": "go",
+    "features": {
+        "ghcr.io/devcontainers/features/git:1": {},
+        "ghcr.io/devcontainers/features/github-cli:1": {}
+    }
+}
