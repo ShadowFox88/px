@@ -8,7 +8,7 @@ However, Bash has it's limits and isn't always the easiest to extend, plus if th
 
 # Features
 - [ ] Automatic package manager detection and usage for projects that pertain to:
-    - [ ] Web development (`npm`, `yarn`, `pnpm`, `bun`)
+    - [ ] Web development (`npm`, `yarn`, `pnpm`, `bun` for Javascript, `composer` for PHP)
     - [ ] Python projects (`pip`, `pipx`, `uv`)
     - Maybe more, [request one](https://github.com/cyrus01337/px/issues/new)
 - [ ] Support system package managers (measures will be put in place to prevent accidental, unintended usage)
